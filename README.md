@@ -3,8 +3,8 @@ Community-driven, compassionate maternal care made for you.
 
 ## Overview
 Jumana Care is a community-based mobile app that empowers expectant and new mothers with a social network by:
-- Connecting them with certified doulas near them or virtually,  
-- Providing them with a journal to write their feelings and birthing expectations, shareable with their clinical care team,
+- Connecting them with certified doulas near them or virtually
+- Providing them with a journal to write their feelings and birthing expectations, shareable with their clinical care team
 - Facilitating group prenatal care (mom circles)
 - Creating community by connecting mothers with others who have shared experiences and values
 - Providing access to health education modules and social resources near them 
